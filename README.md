@@ -1,6 +1,6 @@
 # Smart Eco-Home Energy Tracker 🌍🌱
 
-A premium, interactive console-based object-oriented simulator written in Python. This simulator tracks, manages, and optimizes the electricity consumption of various smart home appliances, including a **Smart Fridge**, **Air Conditioner**, **Washing Machine**, and **EV Charger**. 
+An interactive console-based Object-Oriented Programming simulator written in Python. This simulator tracks, manages, and optimizes the electricity consumption of various smart home appliances, including a **Smart Fridge**, **Air Conditioner**, **Washing Machine**, and **EV Charger**. 
 
 The project is structured to demonstrate core **Object-Oriented Programming (OOP)** principles: Classes & Objects, Encapsulation, Inheritance, and Polymorphism.
 
